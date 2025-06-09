@@ -4,7 +4,7 @@ html {
     font-family:
       "Open Sans", sans-serif;
     color: #606060;
-    background-color: #CCFFFF;
+    background-color: #FFCCCC;
   }
   h1 {
     font-size: 60px;
@@ -24,7 +24,8 @@ html {
   body {
     width: 600px;
     margin: 0 auto;
-    background-color: #CCFFE5;
+    background-color: #CCFFFF;
+    border-radius: 20px;
     padding: 0 20px 20px 20px;
     border: 5px solid #606060;
   }
